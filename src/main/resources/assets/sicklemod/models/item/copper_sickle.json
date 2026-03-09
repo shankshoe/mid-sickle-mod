@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sicklemod:item/copper_sickle"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 0],
+      "translation": [0, 8, 2.5],
+      "scale": [1, 1, 1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 90, 0],
+      "translation": [0, 8, 2.5],
+      "scale": [1, 1, 1]
+    },
+    "firstperson_righthand": {
+      "rotation": [5, -90, 0],
+      "translation": [0, 5.5, -1],
+      "scale": [1, 1, 1]
+    },
+    "firstperson_lefthand": {
+      "rotation": [5, 87, 0],
+      "translation": [0, 5.5, -1],
+      "scale": [1, 1, 1]
+    }
+  }
+}
